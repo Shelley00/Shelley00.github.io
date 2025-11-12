@@ -3,18 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "Shelley00.github.io"
+  title: ""
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: kosrae.qmd
+        text: My Island Home
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - minty
     css: styles.css
     toc: true
 

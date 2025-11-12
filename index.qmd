@@ -1,11 +1,32 @@
 ---
-title: "Shelley00.github.io"
+title: "Shelley Palsis"
+image: media/IMG_7442.JPG
+about:
+  template: trestles
 ---
 
-This is a Quarto website. helllo
+###### To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Welcome !
 
-```{r}
-1 + 1
-```
+Hi! , Im Shelley Palsis
+
+This will be my first website ever
+
+I've been learning how to use Rstudio. With Rstudio, I've learned how to make graphs with given data, Do projects and now, making a website. So far, it has been an exciting experience!
+
+------------------------------------------------------------------------
+
+## What you'll find :
+
+-   **About** - Learn more about me through my website; Getting to know me !!
+
+-   **My Island Home** - Learn more about Kosrae 🌺, where im from.
+
+-   **Goals** - My goal for this website is to add more to it and make it clean and simple as i go.
+
+------------------------------------------------------------------------
+
+## Motivation
+
+" Dont give up, Never give up " - Unknown

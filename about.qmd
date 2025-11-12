@@ -1,9 +1,31 @@
 ---
-title: "About"
+title: ""
 ---
 
-About this site
+## About
 
-```{r}
-1 + 1
-```
+Hey! My name is Shelley Palsis — I am from Kosrae, one of the four islands in Micronesia that make up the FSM🇫🇲
+
+-- A student interested in studying about the Science of the Environment and Human Health.
+
+--------------------------------------------------------------------
+
+## Education 🎓
+
+-  I graduated highschool from Kosrae Highschool and I'm Currently a Sophmore student at Chaminade University of Honolulu, majoring in Natural Science.
+
+--------------------------------------------------------------------
+
+## My Goals ✈️
+
+-   My goals in life are to be Happy and Successful, both very high goals, but with Hope, Motivation and Commitment , I know that my goals will be met.
+
+--------------------------------------------------------------------
+
+## Fun Facts About Me 📌
+
+-   I Love baseball ⚾️
+-   I Love to travel✈️
+-   My favorite food is Poke
+-   I'm a visual leaner
+-   I don't eat burgers🍔
