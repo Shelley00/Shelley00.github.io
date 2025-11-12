@@ -1,16 +1,79 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Shelley00.github.io",
-    "section": "",
-    "text": "This is a Quarto website. helllo\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Hey! My name is Shelley Palsis — I am from Kosrae, one of the four islands in Micronesia that make up the FSM🇫🇲\n– A student interested in studying about the Science of the Environment and Human Health."
+  },
+  {
+    "objectID": "about.html#about",
+    "href": "about.html#about",
+    "title": "",
+    "section": "",
+    "text": "Hey! My name is Shelley Palsis — I am from Kosrae, one of the four islands in Micronesia that make up the FSM🇫🇲\n– A student interested in studying about the Science of the Environment and Human Health."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "",
+    "section": "Education 🎓",
+    "text": "Education 🎓\n\nI graduated highschool from Kosrae Highschool and I’m Currently a Sophmore student at Chaminade University of Honolulu, majoring in Natural Science."
+  },
+  {
+    "objectID": "about.html#my-goals",
+    "href": "about.html#my-goals",
+    "title": "",
+    "section": "My Goals ✈️",
+    "text": "My Goals ✈️\n\nMy goals in life are to be Happy and Successful, both very high goals, but with Hope, Motivation and Commitment , I know that my goals will be met."
+  },
+  {
+    "objectID": "about.html#fun-facts-about-me",
+    "href": "about.html#fun-facts-about-me",
+    "title": "",
+    "section": "Fun Facts About Me 📌",
+    "text": "Fun Facts About Me 📌\n\nI Love baseball ⚾️\nI Love to travel✈️\nMy favorite food is Poke\nI’m a visual leaner\nI don’t eat burgers🍔"
+  },
+  {
+    "objectID": "kosrae.html",
+    "href": "kosrae.html",
+    "title": "My Island Home 🌺🇫🇲",
+    "section": "",
+    "text": "Kosrae is a small island, only 42 square miles with a population of around 6,000 people, The island has 5 villages, Tafunsak, Walung, Lelu, Malem and Utwe . It makes up one of the four islands that make up the Federated States of Micronesia (FSM) 🇫🇲 , all part of Micronesia. although the island is small, it has great scenery. Blue oceans🌊, tall coconut trees🌴, beautiful beaches and waterfalls, which makes it feel like Paradise!"
+  },
+  {
+    "objectID": "kosrae.html#get-to-know-kosrae-where-im-from",
+    "href": "kosrae.html#get-to-know-kosrae-where-im-from",
+    "title": "My Island Home 🌺🇫🇲",
+    "section": "",
+    "text": "Kosrae is a small island, only 42 square miles with a population of around 6,000 people, The island has 5 villages, Tafunsak, Walung, Lelu, Malem and Utwe . It makes up one of the four islands that make up the Federated States of Micronesia (FSM) 🇫🇲 , all part of Micronesia. although the island is small, it has great scenery. Blue oceans🌊, tall coconut trees🌴, beautiful beaches and waterfalls, which makes it feel like Paradise!"
+  },
+  {
+    "objectID": "kosrae.html#what-makes-the-island-unique",
+    "href": "kosrae.html#what-makes-the-island-unique",
+    "title": "My Island Home 🌺🇫🇲",
+    "section": "What makes the island Unique 🌺🌺:",
+    "text": "What makes the island Unique 🌺🌺:\nMountain structure - on the middle of the island we have mountains that shape a lady sleeping, which makes the island known as the ” Island of The Sleeping Lady”\nNature everywhere - On the island of Kosrae, everywhere you look, there are tall trees that always give the ” Island Vibes”\nLocal foods - There are many Local Foods, but the most common ones are pounded taro and banana called ” Fafa ” and another is the ” Kosraen Soup “, made with coconut milk, rice and any choice of meat."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Shelley Palsis",
+    "section": "Welcome !",
+    "text": "Welcome !\nHi! , Im Shelley Palsis\nThis will be my first website ever\nI’ve been learning how to use Rstudio. With Rstudio, I’ve learned how to make graphs with given data, Do projects and now, making a website. So far, it has been an exciting experience!"
+  },
+  {
+    "objectID": "index.html#what-youll-find",
+    "href": "index.html#what-youll-find",
+    "title": "Shelley Palsis",
+    "section": "What you’ll find :",
+    "text": "What you’ll find :\n\nAbout - Learn more about me through my website; Getting to know me !!\nMy Island Home - Learn more about Kosrae 🌺, where im from.\nGoals - My goal for this website is to add more to it and make it clean and simple as i go."
+  },
+  {
+    "objectID": "index.html#motivation",
+    "href": "index.html#motivation",
+    "title": "Shelley Palsis",
+    "section": "Motivation",
+    "text": "Motivation\n” Dont give up, Never give up ” - Unknown"
   }
 ]
